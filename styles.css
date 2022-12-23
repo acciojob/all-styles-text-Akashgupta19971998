@@ -4,8 +4,6 @@ div{
     border-left: 5px;
     border-left-color: green;
     padding: 10px;
-    font-size: 20px;  
-}
-.conatiner #heading{
-    color: white;
+    font-size: 20px; 
+    color: white; 
 }
